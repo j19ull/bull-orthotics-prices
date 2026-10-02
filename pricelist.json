@@ -15,7 +15,7 @@
     {"name": "TurboMed Xtern Frontier AFO", "description": "Custom hinged Ankle Foot Orthosis (single)", "price": 780.00, "category": "AFO", "sortOrder": 250},
     {"name": "Turbomed Xtern Summit AFO", "description": "Single TurboMed Xtern Summit AFO", "price": 980.00, "category": "AFO", "sortOrder": 260},
     {"name": "Custom Carbon Fibre AFO", "description": "Made to cast", "price": "POA*", "category": "AFO", "sortOrder": 270},
-    {"name": "Neja RSC Spinal Brace", "description": "Advanced RSC Cheneau style bracing - 3D corrective forces for optimal scoliosis management. Partner with Neja.", "price": 2700.00, "category": "RSC Brace", "sortOrder": 300},
+    {"name": "Neja RSC Spinal Brace", "description": "Advanced RSC Cheneau style bracing - 3D corrective forces for optimal scoliosis management. Partner with Neja.", "price": 2750.00, "category": "RSC Brace", "sortOrder": 300},
     {"name": "Boston Spinal Brace", "description": "Boston Brace Made to Measures from provided x-ray", "price": 920.00, "category": "TLSO", "sortOrder": 305},
     {"name": "Lycra Suit", "description": "Full suit for movement disorders and postural support", "price": 870.00, "category": "Spinal Brace", "sortOrder": 340},
     {"name": "Shoe Raise (up to 25mm)", "description": "External footwear adaptation", "price": 65.00, "category": "Cork Raises", "sortOrder": 400},
