@@ -4,7 +4,7 @@
     {"name": "Thuasne Malleo Dynastab Boa Ankle Brace", "description": "", "price": 60.00, "category": "Ankle Brace", "sortOrder": 999},
     {"name": "Uni-Reliever Knee Brace", "description": "", "price": 475.00, "category": "Knee Orthosis", "sortOrder": 999},
     {"name": "Consultation", "description": "Initial assessment, payable at appointment.", "price": 50.00, "category": "", "sortOrder": 100},
-    {"name": "Review", "description": "Follow up appointment", "price": 20.00, "category": "", "sortOrder": 110},
+    {"name": "Review", "description": "Follow up appointment", "price": 25.00, "category": "", "sortOrder": 110},
     {"name": "Functional Foot Orthoses", "description": "1pr FFOs, includes posting, pads, covers", "price": 290.00, "category": "Insoles", "sortOrder": 200},
     {"name": "Total Contact Insole (TCI)", "description": "1pr TCIs, includes posting, pads, covers.", "price": 270.00, "category": "Insoles", "sortOrder": 201},
     {"name": "Custom Cosmetic AFO to Cast", "description": "Single AFO in plastic unjointed with calf and ankle straps", "price": 420.00, "category": "AFO", "sortOrder": 205},
