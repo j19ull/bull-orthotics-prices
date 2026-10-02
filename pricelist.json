@@ -1,0 +1,26 @@
+{
+  "items": [
+    {"name": "Refurbish 1pr FFOs", "description": "Refurbish top covers and pads on 1pr FFOs", "price": 85.00, "category": "Insole - Adaptions/Repairs", "sortOrder": 999},
+    {"name": "Thuasne Malleo Dynastab Boa Ankle Brace", "description": "", "price": 60.00, "category": "Ankle Brace", "sortOrder": 999},
+    {"name": "Uni-Reliever Knee Brace", "description": "", "price": 475.00, "category": "Knee Orthosis", "sortOrder": 999},
+    {"name": "Consultation", "description": "Initial assessment, payable at appointment.", "price": 50.00, "category": "", "sortOrder": 100},
+    {"name": "Review", "description": "Follow up appointment", "price": 20.00, "category": "", "sortOrder": 110},
+    {"name": "Functional Foot Orthoses", "description": "1pr FFOs, includes posting, pads, covers", "price": 285.00, "category": "Insoles", "sortOrder": 200},
+    {"name": "Total Contact Insole (TCI)", "description": "1pr TCIs, includes posting, pads, covers.", "price": 260.00, "category": "Insoles", "sortOrder": 201},
+    {"name": "Custom Cosmetic AFO to Cast", "description": "Single AFO in plastic unjointed with calf and ankle straps", "price": 420.00, "category": "AFO", "sortOrder": 205},
+    {"name": "Custom Hinged AFO", "description": "Custom hinged Ankle Foot Orthosis (single)", "price": 520.00, "category": "AFO", "sortOrder": 210},
+    {"name": "Toe Off AFO", "description": "Custom hinged Ankle Foot Orthosis (single)", "price": 550.00, "category": "AFO", "sortOrder": 220},
+    {"name": "Sprystep AFO", "description": "Custom hinged Ankle Foot Orthosis (single)", "price": 490.00, "category": "AFO", "sortOrder": 230},
+    {"name": "TurboMed Xtern Classic AFO", "description": "Custom hinged Ankle Foot Orthosis (single)", "price": 680.00, "category": "AFO", "sortOrder": 240},
+    {"name": "TurboMed Xtern Frontier AFO", "description": "Custom hinged Ankle Foot Orthosis (single)", "price": 780.00, "category": "AFO", "sortOrder": 250},
+    {"name": "Turbomed Xtern Summit AFO", "description": "Single TurboMed Xtern Summit AFO", "price": 980.00, "category": "AFO", "sortOrder": 260},
+    {"name": "Custom Carbon Fibre AFO", "description": "Made to cast", "price": "POA*", "category": "AFO", "sortOrder": 270},
+    {"name": "Neja RSC Spinal Brace", "description": "Advanced RSC Cheneau style bracing - 3D corrective forces for optimal scoliosis management. Partner with Neja.", "price": 2700.00, "category": "RSC Brace", "sortOrder": 300},
+    {"name": "Boston Spinal Brace", "description": "Boston Brace Made to Measures from provided x-ray", "price": 920.00, "category": "TLSO", "sortOrder": 305},
+    {"name": "Lycra Suit", "description": "Full suit for movement disorders and postural support", "price": 870.00, "category": "Spinal Brace", "sortOrder": 340},
+    {"name": "Shoe Raise (up to 25mm)", "description": "External footwear adaptation", "price": 65.00, "category": "Cork Raises", "sortOrder": 400},
+    {"name": "Shoe Raise (25-50 mm)", "description": "External footwear adaptation", "price": 80.00, "category": "Cork Raises", "sortOrder": 401},
+    {"name": "Rocker Sole", "description": "Single shoe external adaptation for rocker and carbon stiffener.", "price": 85.00, "category": "Cork Raises", "sortOrder": 420},
+    {"name": "Double Rocker Adaptation", "description": "Single shoe adaptation for ankle rocker/rocker sole", "price": 70.00, "category": "Cork Raises", "sortOrder": 430}
+  ]
+}
