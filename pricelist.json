@@ -19,7 +19,7 @@
     {"name": "Custom Carbon Fibre AFO", "description": "Made to cast", "price": "POA*", "category": "AFO", "sortOrder": 270},
     {"name": "Neja RSC Spinal Brace", "description": "Advanced RSC Cheneau style bracing - 3D corrective forces for optimal scoliosis management. Partner with Neja.", "price": 2750.00, "category": "RSC Brace", "sortOrder": 300},
     {"name": "Boston Spinal Brace", "description": "Boston Brace Made to Measures from provided x-ray", "price": 920.00, "category": "TLSO", "sortOrder": 305},
-    {"name": "Lycra Suit", "description": "Full suit for movement disorders and postural support", "price": 870.00, "category": "Spinal Brace", "sortOrder": 340},
+    {"name": "Lycra Suit", "description": "Full suit for movement disorders and postural support", "price": 890.00, "category": "Spinal Brace", "sortOrder": 340},
     {"name": "Shoe Raise (up to 25mm)", "description": "External footwear adaptation", "price": 65.00, "category": "Cork Raises", "sortOrder": 400},
     {"name": "Shoe Raise (25-50 mm)", "description": "External footwear adaptation", "price": 80.00, "category": "Cork Raises", "sortOrder": 401},
     {"name": "Rocker Sole", "description": "Single shoe external adaptation for rocker and carbon stiffener.", "price": 85.00, "category": "Cork Raises", "sortOrder": 420},
