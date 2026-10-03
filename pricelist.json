@@ -1,6 +1,7 @@
 {
   "items": [
     {"name": "FaceMask 3D printed", "description": "", "price": 450.00, "category": "", "sortOrder": 0},
+    {"name": "TurtleBrace Ankle Adult", "description": "", "price": 440.00, "category": "AFO", "sortOrder": 0},
     {"name": "TurtleBrace Paediatric Ankle", "description": "", "price": 350.00, "category": "AFO", "sortOrder": 0},
     {"name": "Consultation", "description": "Initial assessment, payable at appointment.", "price": 50.00, "category": "", "sortOrder": 100},
     {"name": "Review", "description": "Follow up appointment", "price": 25.00, "category": "", "sortOrder": 110},
