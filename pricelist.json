@@ -3,7 +3,7 @@
     {"name": "FaceMask 3D printed", "description": "", "price": 450.00, "category": "", "sortOrder": 0},
     {"name": "TurtleBrace Ankle Adult", "description": "", "price": 440.00, "category": "AFO", "sortOrder": 0},
     {"name": "TurtleBrace Paediatric Ankle", "description": "", "price": 350.00, "category": "AFO", "sortOrder": 0},
-    {"name": "Consultation", "description": "Initial assessment, payable at appointment.", "price": 50.00, "category": "", "sortOrder": 100},
+    {"name": "Consultation", "description": "Initial assessment, payable at appointment.", "price": 50.00, "category": "Services", "sortOrder": 100},
     {"name": "Review", "description": "Follow up appointment", "price": 25.00, "category": "", "sortOrder": 110},
     {"name": "Functional Foot Orthoses", "description": "1pr FFOs, includes posting, pads, covers", "price": 290.00, "category": "Insoles", "sortOrder": 200},
     {"name": "Total Contact Insole (TCI)", "description": "1pr TCIs, includes posting, pads, covers.", "price": 270.00, "category": "Insoles", "sortOrder": 201},
