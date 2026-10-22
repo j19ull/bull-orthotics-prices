@@ -18,7 +18,7 @@
     {"name": "Custom Carbon Fibre AFO", "description": "Price on Application - varies by individual requirements", "price": 2400.00, "category": "AFO", "sortOrder": 270},
     {"name": "Neja RSC Spinal Brace", "description": "", "price": 2750.00, "category": "RSC Brace", "sortOrder": 300},
     {"name": "Boston Spinal Brace", "description": "", "price": 950.00, "category": "TLSO", "sortOrder": 305},
-    {"name": "Lycra Suit", "description": "", "price": 950.00, "category": "Spinal Brace", "sortOrder": 340},
+    {"name": "Lycra Suit", "description": "", "price": 950.00, "category": "Lycra", "sortOrder": 340},
     {"name": "Shoe Raise (up to 25mm)", "description": "", "price": 70.00, "category": "Cork Raises", "sortOrder": 400},
     {"name": "Shoe Raise (25-50 mm)", "description": "", "price": 80.00, "category": "Cork Raises", "sortOrder": 401},
     {"name": "Rocker Sole", "description": "", "price": 85.00, "category": "Cork Raises", "sortOrder": 420},
