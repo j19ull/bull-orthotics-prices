@@ -1,6 +1,6 @@
 {
   "items": [
-    {"name": "Coyote Dynamic AFO", "description": "Coyote Dynamic AFO with carbon posterior strut", "price": 1750.00, "category": "", "sortOrder": 0},
+    {"name": "Coyote Dynamic AFO", "description": "Coyote Dynamic AFO with carbon posterior strut", "price": 1750.00, "category": "AFO", "sortOrder": 0},
     {"name": "FaceMask 3D printed", "description": "", "price": 450.00, "category": "", "sortOrder": 0},
     {"name": "Headmaster Collar", "description": "", "price": 220.00, "category": "Collar Cervical", "sortOrder": 0},
     {"name": "TurtleBrace Ankle Adult", "description": "", "price": 440.00, "category": "AFO", "sortOrder": 0},
@@ -16,7 +16,7 @@
     {"name": "TurboMed Xtern Classic AFO", "description": "Custom hinged Ankle Foot Orthosis (single)", "price": 680.00, "category": "AFO", "sortOrder": 240},
     {"name": "TurboMed Xtern Frontier AFO", "description": "Custom hinged Ankle Foot Orthosis (single)", "price": 780.00, "category": "AFO", "sortOrder": 250},
     {"name": "Turbomed Xtern Summit AFO", "description": "", "price": 980.00, "category": "AFO", "sortOrder": 260},
-    {"name": "Custom Carbon Fibre AFO", "description": "Price on Application - varies by individual requirements", "price": 2400.00, "category": "AFO", "sortOrder": 270},
+    {"name": "Custom Carbon Fibre AFO", "description": "Price on Application - varies by individual requirements", "price": 4500.00, "category": "AFO", "sortOrder": 270},
     {"name": "Neja RSC Spinal Brace", "description": "", "price": 2750.00, "category": "RSC Brace", "sortOrder": 300},
     {"name": "Boston Spinal Brace", "description": "", "price": 950.00, "category": "TLSO", "sortOrder": 305},
     {"name": "Lycra Suit", "description": "", "price": 950.00, "category": "Lycra", "sortOrder": 340},
