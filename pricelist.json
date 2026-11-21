@@ -1,5 +1,7 @@
 {
   "items": [
+    {"name": "3D Collar Neuro Adjustable", "description": "Adjustable collar made to 3D scan", "price": 510.00, "category": "", "sortOrder": 0},
+    {"name": "3D Printed Protecitve Helmet", "description": "3D Printed Protecitve Helmet made to scan", "price": 960.00, "category": "", "sortOrder": 0},
     {"name": "Coyote Dynamic AFO", "description": "Coyote Dynamic AFO with carbon posterior strut", "price": 1750.00, "category": "AFO", "sortOrder": 0},
     {"name": "FaceMask 3D printed", "description": "", "price": 450.00, "category": "", "sortOrder": 0},
     {"name": "Headmaster Collar", "description": "", "price": 220.00, "category": "Collar Cervical", "sortOrder": 0},
